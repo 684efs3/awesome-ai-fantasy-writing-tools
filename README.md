@@ -57,6 +57,7 @@ Fantasy map makers for endpapers, reader reference, and your own navigation.
 - [Wonderdraft](https://www.wonderdraft.net/) - Desktop map creation tool for detailed fantasy world maps.
 - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Free open source generator for procedural worlds with states, cultures, and rivers.
 - [Dungeon Scrawl](https://dungeonscrawl.com/) - Free tool for quick floor plans of castles, dungeons, and buildings.
+- [Dungeon Fog](https://www.dungeonfog.com/) - Map creator for battle maps, regions, and world overviews.
 
 ## Names, Languages and Generators
 
@@ -111,6 +112,7 @@ General-purpose models fantasy writers use for brainstorming and lore Q&A.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
 - [Awesome AI Book Series Tools](https://github.com/grades2018/awesome-ai-book-series-tools) - Series bibles, continuity, and multi-book fiction.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
+- [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 
 ## Contributing
 
