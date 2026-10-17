@@ -54,7 +54,7 @@ Encyclopedia-style tools for settings, histories, religions, and factions.
 Fantasy map makers for endpapers, reader reference, and your own navigation.
 
 - [Inkarnate](https://inkarnate.com/) - Browser-based fantasy map maker for world, region, and city maps.
-- [Wonderdraft](https://www.wonderdraft.net/) - Desktop map creation tool for detailed fantasy world maps.
+- [Wonderdraft](https://wonderdraft.net/) - Desktop map creation tool for detailed fantasy world maps.
 - [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) - Free open source generator for procedural worlds with states, cultures, and rivers.
 - [Dungeon Scrawl](https://dungeonscrawl.com/) - Free tool for quick floor plans of castles, dungeons, and buildings.
 - [Dungeon Fog](https://www.dungeonfog.com/) - Map creator for battle maps, regions, and world overviews.
