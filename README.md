@@ -114,6 +114,7 @@ General-purpose models fantasy writers use for brainstorming and lore Q&A.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity tools.
 - [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - AI and writing tools for ghostwriters turning client interviews into books.
+- [Awesome Memoir Writing Tools](https://github.com/grades2018/awesome-memoir-writing-tools) - Tools for turning real memories, interviews, and family stories into a memoir.
 
 ## Contributing
 
